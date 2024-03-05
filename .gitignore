@@ -1,0 +1,34 @@
+# Arquivos de compilação e diretórios
+bin/
+obj/
+
+# Arquivos de configuração do Visual Studio
+.vscode/
+*.suo
+*.user
+*.sln.docstates
+
+# Arquivos gerados pela ferramenta de compilação do .NET
+*.dll
+*.pdb
+*.exe
+
+# Arquivos de log e arquivos temporários
+*.log
+*.swp
+*~
+*.bak
+*.cache
+
+# Arquivos de dependências NuGet
+packages/
+
+# Arquivos de saída do MSTest
+TestResults/
+
+# Arquivos de configuração do Rider
+.idea/
+
+# Arquivos de configuração específicos do sistema operacional
+.DS_Store
+Thumbs.db

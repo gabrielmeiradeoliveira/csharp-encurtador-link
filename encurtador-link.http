@@ -1,0 +1,6 @@
+@encurtador_link_HostAddress = http://localhost:5082
+
+POST {{encurtador_link_HostAddress}}/encurtador/
+Accept: application/json
+
+###
